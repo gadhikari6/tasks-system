@@ -41,6 +41,14 @@ go test ./service -v
 ```bash
 cd frontend
 
+# Make sure you have pnpm installed (npm install -g pnpm)
 # run tests
 pnpm run test
 ```
+
+### Postman collection
+- Please find the postman collection [here](./Tasks-mgmt-app.postman_collection.json)
+
+### Screenshots
+![Login Page](./assets/login-ss.png)
+![Main Page](./assets/ss-main.png)
